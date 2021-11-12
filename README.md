@@ -1,1 +1,4 @@
-# 2021-11-11-ubimotif
+# Ubimotif Workshop
+
+* Date:11-13 Novemeber 2021
+
